@@ -1,0 +1,24 @@
+apply plugin: "java"
+apply plugin : 'application'
+
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+mainClassName = 'Main'
+sourceSets.main.java.srcDirs = ['src']
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+	mavenCentral()
+}
+
+jar {
+	manifest.attributes("Main-Class": mainClassName);
+}
+
+task wrapper(type: Wrapper) {
+	gradleVersion = "4.6"
+}
