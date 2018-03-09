@@ -6,7 +6,7 @@ tasks.withType(JavaCompile) {
 }
 
 mainClassName = 'Main'
-sourceSets.main.java.srcDirs = ['src']
+sourceSets.main.java.srcDirs = ['run']
 sourceCompatibility = JavaVersion.VERSION_1_8
 targetCompatibility = JavaVersion.VERSION_1_8
 
