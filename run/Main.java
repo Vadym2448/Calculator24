@@ -18,10 +18,10 @@ public class Main extends javax.swing.JFrame {
     String calculation;
 
 
-    static boolean isDelim(char c) {
+   public static boolean isDelim(char c) {
         return c == ' ';
     }
-    static boolean isOperator(char c) {
+  public  boolean isOperator(char c) {
         return c == '+' || c == '-' || c == '*' || c == '/' || c == '^'
                 || c == '√' || c == 't' || c == 's' || c == 'c' || c == 'l'
                 || c == '!' || c == 'T' || c == 'S' || c == 'C' || c == 'L';
@@ -281,7 +281,7 @@ public class Main extends javax.swing.JFrame {
         }
         while ( (b = s.next()) != "null");
 
-        return 0;
+return 0;
     }
 
     public int mathematic()
