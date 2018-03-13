@@ -7,62 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d08a7e54-159f-402c-ba35-a480fdc4ee1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$10.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$13.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$14.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$15.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$16.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$17.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$18.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$19.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$20.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$21.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$22.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$23.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$24.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$25.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$26.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$27.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$28.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$29.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$30.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$31.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$32.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$33.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$34.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$35.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$36.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$37.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$38.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$39.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$40.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$41.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$42.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$43.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$44.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$45.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$46.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$47.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$48.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$49.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$50.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$51.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$52.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main$9.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Calculator/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/Calculator/MainTest.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src" afterPath="$PROJECT_DIR$/src" />
       <change beforePath="$PROJECT_DIR$/test/MainTest.java" afterPath="$PROJECT_DIR$/test/MainTest.java" />
     </list>
@@ -140,8 +84,8 @@
       <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-354">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,7 +137,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="82" />
     <option name="y" value="1" />
     <option name="width" value="1091" />
@@ -515,7 +459,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1319" height="784" extended-state="7" />
+    <frame x="55" y="-8" width="1319" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1499,8 +1443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-354">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="207">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
